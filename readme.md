@@ -1,4 +1,4 @@
-<center>![simpleuiscreencap.PNG](simpleuiscreencap.PNG)<center>
+<center>![simpleuiscreencap.PNG](simpleuiscreencap.PNG)</center>
 #Simple Deploy Utility
 
 ---
